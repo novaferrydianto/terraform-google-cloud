@@ -46,7 +46,7 @@ $ terraform -v
 
 ## Deploy
 ```bash
-$ git clone git@github.com:peppiii/Terraform-google-cloud.git
+$ git clone novaferrydianto@github.com:peppiii/Terraform-google-cloud.git
 $ cd Terraform-google-cloud
 $ terraform init
 $ terraform plan
